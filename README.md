@@ -18,13 +18,12 @@ Evaluation Metrics
 
 Key Insights
 
-1.Features like AverageCost, isTakeaway, and isOnlineOrder had the strongest predictive power.
-
-2.Random Forest performed the best with high accuracy and balanced classification metrics.
+1. Features like AverageCost, isTakeaway, and isOnlineOrder had the strongest predictive power.
+2. Random Forest performed the best with high accuracy and balanced classification metrics.
 
 Tools & Libraries
 
 1. Python
 2. pandas
 3. scikit-learn
-4.matplotlib & seaborn
+4. matplotlib & seaborn
