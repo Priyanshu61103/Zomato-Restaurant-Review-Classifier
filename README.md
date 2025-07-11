@@ -19,6 +19,7 @@ Evaluation Metrics
 Key Insights
 
 1.Features like AverageCost, isTakeaway, and isOnlineOrder had the strongest predictive power.
+
 2.Random Forest performed the best with high accuracy and balanced classification metrics.
 
 Tools & Libraries
