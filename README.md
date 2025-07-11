@@ -1,3 +1,5 @@
+## Zomato Restaurant Review Classifier 
+
 A machine learning project to predict whether a restaurant receives positive reviews based on multiple features such as average cost, online ordering, takeaway availability, and seating options. This project explores various classification models and evaluates their performance on real-world data.
 
 Dataset
